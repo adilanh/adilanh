@@ -60,7 +60,7 @@ fun_fact: "Always curious about how things work under the hood! 🔍"
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adilanh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/adilanh">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=adilanh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adilanh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 

@@ -1,17 +1,16 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Header Image" width="75%" />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Adila+Nurul+Hidayah;Software+Development+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;IT+Systems+Explorer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Header Image" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adilanh&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adilanh?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif">
 
 ## 🧑‍💻 About Me
 

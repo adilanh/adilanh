@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Header Image" width="75%" />
+  <img src="header.png" alt="Header Image" width="100%" />
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Adila+Nurul+Hidayah;Software+Development+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;IT+Systems+Explorer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />

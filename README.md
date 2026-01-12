@@ -10,10 +10,9 @@
   <img src="https://img.shields.io/github/followers/adilanh?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif">
-
-## 🧑‍💻 About Me
-
+<table>
+<tr>
+<td width="65%" valign="top">
 ```yaml
 name: Adila Nurul Hidayah
 pronouns: She/Her
@@ -27,6 +26,7 @@ interests:
   - Problem Solving
 fun_fact: "Always curious about how things work under the hood! 🔍"
 ```
+</td> <td width="35%" align="center" valign="top"> <img alt="Coding" width="300" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif"> </td> </tr> </table>
 
 <br clear="both">
 

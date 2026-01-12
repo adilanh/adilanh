@@ -3,11 +3,15 @@
 </h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/736x/f7/e4/28/f7e428776e7f5471c4d0052360de41f7.jpg" alt="Header Image" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adilanh&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adilanh?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif">
 
 ## 🧑‍💻 About Me
 

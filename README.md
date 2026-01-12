@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ```yaml
 name: Adila Nurul Hidayah

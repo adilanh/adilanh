@@ -30,7 +30,7 @@ interests:
   - Problem Solving
 fun_fact: "Always curious about how things work under the hood! 🔍"
 ```
-</td> <td width="35%" align="center" valign="middle"> <img alt="Coding" width="300" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif"> </td> </tr> </table>
+</td> <td width="32%" align="center" valign="middle"> <img alt="Coding" width="300" src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif"> </td> </tr> </table>
 
 <br clear="both">
 

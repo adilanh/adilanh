@@ -13,12 +13,16 @@
 <table>
 <tr>
 <td width="65%" valign="top">
+
 ```yaml
 name: Adila Nurul Hidayah
 pronouns: She/Her
 location: Indonesia 🇮🇩
 current_focus: Software Development & Data Science
-learning: Machine Learning, Big Data, System Architecture
+learning:
+  - Machine Learning
+  - Big Data
+  - System Architecture
 interests:
   - Software Engineering
   - Data Analytics & Visualization
